@@ -17,6 +17,7 @@
 - [Reviews of bootcamps from moms](https://www.coursereport.com/blog/tips-for-moms-learning-to-code)
 - [This mom of four learned to code and changed her career path](https://www.nocsdegree.com/how-this-mom-changed-career-path-by-learning-to-code/)
 - [Mum who starts bootcampe explains her experience](https://careerkarma.com/blog/being-a-mom-while-learning-how-to-code/)
+- [Short blog about a mum learning to code at night](https://diariesofacodingmom.wordpress.com/)
 
 
 ## Parent-friendly companies
