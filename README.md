@@ -10,6 +10,7 @@
 ## Learning to code
 - [Mother coders](http://www.mothercoders.org/)
 - [Mom learn to code](https://www.momslearntocode.com/): Hana teaches web devs in short courses.
+- [Moms can code](https://moms-can-code.mn.co/): Community and courses to learn to code - seems deprecated.
 
 
 ## Stories of moms and dads learning to code
