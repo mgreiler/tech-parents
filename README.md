@@ -8,6 +8,8 @@
 - [Parent-Driven Development Podcast](https://www.parentdrivendevelopment.com/)
 
 ## Learning to code
+- [Mom learn to code](https://www.momslearntocode.com/): Hana teaches web devs in short courses.
 
 
 ## Parent-friendly companies
+- [Finding remote jobs](https://github.com/lukasz-madon/awesome-remote-job)
