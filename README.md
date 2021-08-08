@@ -8,7 +8,12 @@
 - [Parent-Driven Development Podcast](https://www.parentdrivendevelopment.com/)
 
 ## Learning to code
+- [Mother coders](http://www.mothercoders.org/)
 - [Mom learn to code](https://www.momslearntocode.com/): Hana teaches web devs in short courses.
+
+
+## Stories of moms and dads learning to code
+- [This mom of four learned to code and changed her career path](https://www.nocsdegree.com/how-this-mom-changed-career-path-by-learning-to-code/)
 
 
 ## Parent-friendly companies
